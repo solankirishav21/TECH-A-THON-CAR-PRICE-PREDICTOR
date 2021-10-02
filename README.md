@@ -40,6 +40,11 @@ Project :- We are required to model the price of cars with the available indepen
 
 Dataset :- Scraped data of used AUDI car listings. 10,000 listings, which have been merged from car owners. The cleaned data set contains information of price, transmission, mileage, fuel type, road tax, miles per gallon (mpg), and engine size. Then made a more general car value regression model.
 
+![df0940a3-dcca-4dde-a2ce-e9b2c9973ed7](https://user-images.githubusercontent.com/82879807/135710690-9da985dc-f641-4771-a273-17b06ab27e1b.jpg)
+
+![7d7cbf20-c272-4f00-bb12-1818271669cd](https://user-images.githubusercontent.com/82879807/135710776-61e90a0d-c3fc-4720-8829-8902ca4c0593.jpg)
+
+
 ML MODEL : Random Forest Regression
 
 Libraries Used : Numpy, Pandas, Matplotlib, ScikitLearn
@@ -55,5 +60,6 @@ Libraries Used : Numpy, Pandas, Matplotlib, ScikitLearn
 2> The information with more than 95% accuracy.
 ![Accuracy](https://user-images.githubusercontent.com/82879807/135616424-03b5a72d-5b54-4694-8e72-ed3048abb700.jpeg)
 
+![6867c4be-57c3-407e-9d7c-13feff0b3397](https://user-images.githubusercontent.com/82879807/135710756-c4ab3444-a2f9-484f-aff6-f1de10bf37e9.jpg)
 
 
